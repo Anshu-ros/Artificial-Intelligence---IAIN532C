@@ -1,8 +1,8 @@
 # Artificial Intelligence
 ### Kadambari Anuranjana, IIT2016111 - Indian Institue of Information Technology Allahabad
 
-[https://img.shields.io/badge/language-Python-brightgreen.svg]()
-[https://img.shields.io/badge/language-Prolog-brightgreen.svg]()
+![](https://img.shields.io/badge/language-Python-brightgreen.svg)
+![](https://img.shields.io/badge/language-Prolog-brightgreen.svg)
 
 ## IIIT-A Artificial Intelligence Course (IAIN 532 C)
 
