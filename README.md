@@ -28,3 +28,7 @@
       + Genetic Algorithm (Binary Encoding):
         + Crossover: Single point, Two point, Uniform, Arithmetic
         + Mutation: Bit Inversion
+    + Lab 3
+      + Hill Climbing Methods
+        + Travelling Salesman Problem
+        + N-Queens Problem
