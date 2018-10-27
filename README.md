@@ -4,6 +4,7 @@
 ![](https://img.shields.io/badge/language-Python-brightgreen.svg)
 ![](https://img.shields.io/badge/language-Prolog-brightgreen.svg)
 
+
 ## IIIT-A Artificial Intelligence Course (IAIN 532 C)
 
 ```
@@ -32,3 +33,7 @@
       + Hill Climbing Methods
         + Travelling Salesman Problem
         + N-Queens Problem
+    + Lab 4
+      + Hill Climbing Methods
+        + Sudoku Solver
+    
